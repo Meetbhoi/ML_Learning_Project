@@ -14,10 +14,9 @@ This model is built to solve a real-world classification problem using the **PIM
 1.  **Data Loading and Exploration:** The dataset is loaded using Pandas and analyzed to understand its structure and features.
 2.  **Feature Normalization:** Input features are scaled to a common range to ensure the gradient descent algorithm converges efficiently.
 3.  **Sigmoid Function:** The core activation function for logistic regression is implemented to map outputs to a probability score between 0 and 1.
-4.  **Cost Function:** The logistic loss function is coded to measure the performance of the model by quantifying the "cost" or error of its predictions.\n
-    **(TO be Implimented)**
-6.  **Gradient Descent:** The optimization algorithm is built from scratch to iteratively update the model's parameters (`w` and `b`) and minimize the cost function.
-7.  **Prediction:** A function is created to make predictions on new data using the optimized parameters.
+4.  **Cost Function:** The logistic loss function is coded to measure the performance of the model by quantifying the "cost" or error of its predictions.
+6.  **Gradient Descent(TO be Implimented):** The optimization algorithm is built from scratch to iteratively update the model's parameters (`w` and `b`) and minimize the cost function.
+7.  **Prediction(TO be Implimented):** A function is created to make predictions on new data using the optimized parameters.
 
 ---
 
