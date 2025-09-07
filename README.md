@@ -34,11 +34,11 @@ This model is built to solve a real-world classification problem using the **PIM
 
 1.  Clone the repository:
     ```
-    git clone https://github.com/your-username/your-repository-name.git
+    git clone https://github.com/Meetbhoi/ML_Learning_Project.git
     ```
 2.  Navigate to the project directory:
     ```
-    cd your-repository-name
+    cd ML_Learning_Project
     ```
 3.  Ensure you have the required libraries installed:
     ```
